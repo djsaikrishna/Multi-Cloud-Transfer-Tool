@@ -252,7 +252,7 @@
     <h3><b>🗑️UUP DUMP</b></h3>
     <h4><b>UUP Dump feature enables you to collect files mentioned in <code>uup_download_linux.sh</code> files and upload them to any cloud mentioned as <code>Destination</code>. It makes your work super easy to make <code>ISO</code> files using </code>.sh</code> file given my <a href="https://uupdump.net">UUP DUMP</a> Website or any other websites.</b></h4>
     <h4><b>1.First download any UUP file in your device, then either upload it to Google Colab or any other Cloud.</b></h4>
-  <h4><b>2.Now copy the path of <code>uup_download_linux.sh</code> file or path of folder which contaning <code>.sh</code> file and paste it as source, now mount or connect any Cloud using steps given above and copy the path and paste it as destionation.</b></h4>
+  <h4><b>2.Now copy the path of <code>uup_download_linux.sh</code> file or path of folder which contaning <code>.sh</code> file and paste it as <code>Source</code>, now mount or connect any Cloud using steps given above and copy the path and paste it as <code>Destionation</code>.</b></h4>
     <img src="https://user-images.githubusercontent.com/87380104/179364517-b28b76bc-5ba5-4c3c-8be6-8c2835551d7a.png">
     <h4><b>3.Once done! Run the code and let program download all files.😚</b></h4>
   <h2><b>📦Packing & Extracting Files/Folder</b></h2>
