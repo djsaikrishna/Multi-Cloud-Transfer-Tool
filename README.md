@@ -23,7 +23,7 @@
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#mirror-gdtot-links">->🪞Mirror GDTOT Links</a></b></p>
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#mirror-hubdrivedrivehub-links">->🧿Mirror HubDrive/DriveHub links</a></b></p>
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#%E2%93%9C%EF%B8%8Fdownload-mega-links">->Ⓜ️Download MEGA Links</a></b></p>
-<p><b><a href="#%EF%B8%8Fuup-dump">🗑️UUP Dump</a></b></p>
+<p><b><a href="#%EF%B8%8Fuup-dump">->🗑️UUP DUMP</a></b></p>
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#packing--extracting-filesfolder">📦Packing & Extracting Files/Folder</a></b></p>
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#%EF%B8%8Ferror-messages">⚠️Error Messages</b></p>
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#modes-of-transfer">🚅Modes of Transfer</a></b></p>
@@ -249,7 +249,7 @@
   <h4><b>This feature enables you to download MEGA Link with or without your MEGA Account incase if you want to use your MEGA Premium account directly to any cloud.</b></h4>
   <h4><b>1.As stated above! you can use your MEGA Account if you want and this tool will save it automtically for future use. Enter MEGA Link in <code>Source</code> field and Destination in <code>Destination</code> field where you have to download the MEGA Files.</b></h4>
   <h4><b>2.If destination path is not provided then downloaded files will be moved to <code>downloades</code> folder in connected runtime (Temporary storage).<b></h4>
-    <h3><b>🗑️UUP Dump</b></h3>
+    <h3><b>🗑️UUP DUMP</b></h3>
     <h4><b>UUP Dump feature enables you to collect files mentioned in `uup_download_linux.sh` files and upload them to any cloud mentioned in Destination. It makes your work super easy to make `ISO` files using `.sh` file given my <a href="https://uupdump.net">UUP DUMP</a> Website or any other websites.</b></h4>
     <h4><b>1.First download any UUP file in your device, then either upload it to Google Colab or any other Cloud.</b></h4>
     <h4><b>2.Now copy the path of `uup_download_linux.sh` file or path of folder which contaning sh file and paste it as source, now mount or connect any Cloud using steps given above and copy the path and paste it as destionation.</b></h4>
