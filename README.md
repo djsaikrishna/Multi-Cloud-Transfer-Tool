@@ -23,6 +23,7 @@
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#mirror-gdtot-links">->🪞Mirror GDTOT Links</a></b></p>
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#mirror-hubdrivedrivehub-links">->🧿Mirror HubDrive/DriveHub links</a></b></p>
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#%E2%93%9C%EF%B8%8Fdownload-mega-links">->Ⓜ️Download MEGA Links</a></b></p>
+<p><b><a href="#%EF%B8%8Fuup-dump">🗑️UUP Dump</a></b></p>
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#packing--extracting-filesfolder">📦Packing & Extracting Files/Folder</a></b></p>
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#%EF%B8%8Ferror-messages">⚠️Error Messages</b></p>
 <p><b><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool#modes-of-transfer">🚅Modes of Transfer</a></b></p>
@@ -248,6 +249,12 @@
   <h4><b>This feature enables you to download MEGA Link with or without your MEGA Account incase if you want to use your MEGA Premium account directly to any cloud.</b></h4>
   <h4><b>1.As stated above! you can use your MEGA Account if you want and this tool will save it automtically for future use. Enter MEGA Link in <code>Source</code> field and Destination in <code>Destination</code> field where you have to download the MEGA Files.</b></h4>
   <h4><b>2.If destination path is not provided then downloaded files will be moved to <code>downloades</code> folder in connected runtime (Temporary storage).<b></h4>
+    <h3><b>🗑️UUP Dump</b></h3>
+    <h4><b>UUP Dump feature enables you to collect files mentioned in `uup_download_linux.sh` files and upload them to any cloud mentioned in Destination. It makes your work super easy to make `ISO` files using `.sh` file given my <a href="https://uupdump.net">UUP DUMP</a> Website or any other websites.</b></h4>
+    <h4><b>1.First download any UUP file in your device, then either upload it to Google Colab or any other Cloud.</b></h4>
+    <h4><b>2.Now copy the path of `uup_download_linux.sh` file or path of folder which contaning sh file and paste it as source, now mount or connect any Cloud using steps given above and copy the path and paste it as destionation.</b></h4>
+    <img src="https://user-images.githubusercontent.com/87380104/179364517-b28b76bc-5ba5-4c3c-8be6-8c2835551d7a.png">
+    <h4><b>3.Once done! Run the code and let program download all files.😚</b></h4>
   <h2><b>📦Packing & Extracting Files/Folder</b></h2>
   <h4><b>This Project comes with the ability to pack or extract of Files or Folder in variety of formats with or without Password Protection while moving the data from One Cloud to another Cloud. What you need is just Source Path which needs to be packed or extracted and Destination Path where you need the final result, so let's learn how to use this feature.😆</b></h4>
   <h4><b>1.First connect the Cloud Accounts between which you need to transfer the packed or extracted data. Please read STEP 2 of "🪝Multi Cloud Transfer" section to learn how to do that!</b></h4>
@@ -258,7 +265,7 @@
     <p><b><code>Destination_Path</code>: The Path on which you want the final output.</b></p>
   <img src="https://user-images.githubusercontent.com/87380104/170721413-12da8839-42df-470b-9392-4d7a4aca8b16.png" alt="34">
   <h4><b>4.Then Run the code to start your given task. Finally Enjoy!😎</b></h4>
-  <p><b>⛔NOTE: Enter Source Path and Destination Path between "" to avoid any Path Error.</b></p>
+    <p><b>⛔NOTE: Enter Source Path and Destination Path between "" to avoid any Path Error.</b></p>
 <h2><b>⚠️Error Messages</b></h2>
 <h4><b>MCT Tool is a multi purpose tool, it comes with various useful features, but you may tackle some Error codes which are their to prevent wrong configurations or progress loss! Below are common Error codes which you may tackle or tackled in Tool:</b></h4>
 <h4><b>1.Google Drive Error: Google Account is not connected!</b></h4>
